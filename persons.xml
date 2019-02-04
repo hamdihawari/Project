@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl "href="Rule.xsl" ?> 
+<student> 
+    <s> 
+        <name> Hamdi</name> 
+        <lastname> Hawari </lastname>
+        <branch> Azobi </branch> 
+        <age> 32</age> 
+        <city> SYR </city> 
+    </s> 
+   
+    <s>
+        <name>Mike</name>
+        <lastname>Müler</lastname>
+        <branch>Humen Resource</branch>
+        <age>30</age>
+        <city>Sweeden</city>
+    </s>
+    <s>
+        <name>Jan</name>
+        <lastname>Fritag</lastname>
+        <branch>Manager</branch>
+        <age>48</age>
+        <city>Bayern</city>
+    </s>
+    <s> 
+        <name> Johanna </name> 
+        <lastname> Welche</lastname>
+        <branch> CSE</branch> 
+        <age> 20</age> 
+        <city> Shahjahanpur </city> 
+    </s> 
+    <s>  
+        <name> Hans</name>
+        <lastname> Morgen</lastname>
+        <branch> CSE</branch> 
+        <age> 23</age> 
+        <city> Buland Shar</city> 
+    </s> 
+    <s>  
+        <name> Abhay Chauhan</name> 
+        <lastname> Welche</lastname>
+        <branch> CSE</branch> 
+        <age> 17</age>
+        <city> Shahjahanpur</city> 
+    </s> 
+    <s>  
+        <name> Himanshu Bhatia</name> 
+        <lastname> Morgen</lastname>
+        <branch> IT</branch> 
+        <age> 25</age> 
+        <city> Indore</city> 
+    </s> 
+    
+<collection name="MyPhoto">
+    <shape url="Young-student" name="Student Photo"/>   
+</collection> 
+    
+</student>

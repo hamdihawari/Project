@@ -1,0 +1,63 @@
+<html>
+   <body>
+      <h1 align="center">Students' Basic Details</h1>
+      <table border="3" align="center">
+         <tr>
+            <th>Name</th>
+            <th>LastName</th>
+            <th>Branch</th>
+            <th>Age</th>
+            <th>City</th>
+         </tr>
+         <tr>
+            <td> Hamdi</td>
+            <td> Hawari </td>
+            <td> Azobi </td>
+            <td> 32</td>
+            <td> SYR </td>
+         </tr>
+         <tr>
+            <td>Mike</td>
+            <td>Müler</td>
+            <td>Humen Resource</td>
+            <td>30</td>
+            <td>Sweeden</td>
+         </tr>
+         <tr>
+            <td>Jan</td>
+            <td>Fritag</td>
+            <td>Manager</td>
+            <td>48</td>
+            <td>Bayern</td>
+         </tr>
+         <tr>
+            <td> Johanna </td>
+            <td> Welche</td>
+            <td> CSE</td>
+            <td> 20</td>
+            <td> Shahjahanpur </td>
+         </tr>
+         <tr>
+            <td> Hans</td>
+            <td> Morgen</td>
+            <td> CSE</td>
+            <td> 23</td>
+            <td> Buland Shar</td>
+         </tr>
+         <tr>
+            <td> Abhay Chauhan</td>
+            <td> Welche</td>
+            <td> CSE</td>
+            <td> 17</td>
+            <td> Shahjahanpur</td>
+         </tr>
+         <tr>
+            <td> Himanshu Bhatia</td>
+            <td> Morgen</td>
+            <td> IT</td>
+            <td> 25</td>
+            <td> Indore</td>
+         </tr>
+      </table>
+   </body>
+</html>
